@@ -1,0 +1,18 @@
+body {
+  width: 250px;
+  margin: 0;
+  padding: 0;
+}
+.text {
+  display: flex;
+  /* border: 2px solid red; */
+  padding: 0 4px 0 4px;
+  margin-bottom: 8px;
+}
+.inputtext {
+  width: 50%;
+  margin-top: 4px;
+}
+h1 {
+  margin: 0;
+}
